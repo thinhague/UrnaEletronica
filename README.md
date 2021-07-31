@@ -36,7 +36,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-Projeto que eu fiz com uma semana de curso, com propósito de melhorar meus conhecimentos.
+Esse projeto foi desenvolvido para aplicar e melhorar meus conhecimentos em CSS e principalmente em JavaScript. O projeto consiste em uma urna eletrônica,
+podendo votar em vereadores e prefeitos, os votos também podem ser NULOS ou BRANCO. 
+OBS: dados fictícios.
 
 ## 🌐 Frontend
 <h1 align="center">
@@ -47,8 +49,8 @@ Projeto que eu fiz com uma semana de curso, com propósito de melhorar meus conh
 
 #### Clonando o projeto
 ```sh
-git clone https://github.com/thinhague/Projetinho-dado
-cd Projetinho-dado
+git clone https://github.com/thinhague/UrnaEletronica
+cd UrnaEletronica
 Depois disso é so mecher no projeto.
 ```
 
