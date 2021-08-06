@@ -51,7 +51,7 @@ OBS: dados fictícios.
 ```sh
 git clone https://github.com/thinhague/UrnaEletronica
 cd UrnaEletronica
-Depois disso é so mecher no projeto.
+Depois disso é so mexer no projeto.
 ```
 
 
